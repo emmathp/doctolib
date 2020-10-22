@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the Doctolib exercice. To test it you can run the db:seed.
 
 Things you may want to cover:
 
 * Ruby version 2.7.1
 
-* System dependencies
+* Rails version 5.2.3 did not work on my computer
 
-* Configuration
+* Il y a uniquement les models de crees, pas de views / controller.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Configuration is not used
